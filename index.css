@@ -88,10 +88,10 @@ nav a{
   opacity: 0.86;
 }
 .content-area h2{
-  font-family: bignoodletitling;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   letter-spacing: 4px;
   padding-top: 30px;
-  font-size: 40px;
+  font-size: 60px;
   margin: 0;
 }
 .content-area p{
@@ -190,4 +190,5 @@ nav a{
 .demo:hover {
   opacity: 1;
 }
+
 <!-- END TEST -->
